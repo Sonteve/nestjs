@@ -12,6 +12,6 @@ export class AppController {
 
   @Get('/hi')
   getHi(): string {
-    return 'hi everyone';
+    return 'hi everyonee';
   }
 }
